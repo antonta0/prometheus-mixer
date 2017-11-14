@@ -1,0 +1,2793 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "oIt4tXgFYnZJBsCac1BQLnTWALM=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/Azure/azure-sdk-for-go/arm/compute",
+			"path": "github.com/Azure/azure-sdk-for-go/arm/compute",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "QKi6LiSyD5GnRK8ExpMgZl4XiMI=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/Azure/azure-sdk-for-go/arm/network",
+			"path": "github.com/Azure/azure-sdk-for-go/arm/network",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "eVSHe6GIHj9/ziFrQLZ1SC7Nn6k=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/Azure/go-autorest/autorest",
+			"path": "github.com/Azure/go-autorest/autorest",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "0sYi0JprevG/PZjtMbOh8h0pt0g=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/Azure/go-autorest/autorest/azure",
+			"path": "github.com/Azure/go-autorest/autorest/azure",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "q9Qz8PAxK5FTOZwgYKe5Lj38u4c=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/Azure/go-autorest/autorest/date",
+			"path": "github.com/Azure/go-autorest/autorest/date",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "Ev8qCsbFjDlMlX0N2tYAhYQFpUc=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/Azure/go-autorest/autorest/to",
+			"path": "github.com/Azure/go-autorest/autorest/to",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "oBixceM+55gdk47iff8DSEIh3po=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/Azure/go-autorest/autorest/validation",
+			"path": "github.com/Azure/go-autorest/autorest/validation",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "IatnluZB5jTVUncMN134e4VOV34=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/PuerkitoBio/purell",
+			"path": "github.com/PuerkitoBio/purell",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "E/Tz8z0B/gaR551g+XqPKAhcteM=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/PuerkitoBio/urlesc",
+			"path": "github.com/PuerkitoBio/urlesc",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "KmjnydoAbofMieIWm+it5OWERaM=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/alecthomas/template",
+			"path": "github.com/alecthomas/template",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "3wt0pTXXeS+S93unwhGoLIyGX/Q=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/alecthomas/template/parse",
+			"path": "github.com/alecthomas/template/parse",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "fCc3grA7vIxfBru7R3SqjcW+oLI=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/alecthomas/units",
+			"path": "github.com/alecthomas/units",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "WNfR3yhLjRC5/uccgju/bwrdsxQ=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/aws",
+			"path": "github.com/aws/aws-sdk-go/aws",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "Y9W+4GimK4Fuxq+vyIskVYFRnX4=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/aws/awserr",
+			"path": "github.com/aws/aws-sdk-go/aws/awserr",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "+q4vdl3l1Wom8K1wfIpJ4jlFsbY=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/aws/awsutil",
+			"path": "github.com/aws/aws-sdk-go/aws/awsutil",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "/232RBWA3KnT7U+wciPS2+wmvR0=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/aws/client",
+			"path": "github.com/aws/aws-sdk-go/aws/client",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "ieAJ+Cvp/PKv1LpUEnUXpc3OI6E=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/aws/client/metadata",
+			"path": "github.com/aws/aws-sdk-go/aws/client/metadata",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "c1N3Loy3AS9zD+m5CzpPNAED39U=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/aws/corehandlers",
+			"path": "github.com/aws/aws-sdk-go/aws/corehandlers",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "zu5C95rmCZff6NYZb62lEaT5ibE=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/aws/credentials",
+			"path": "github.com/aws/aws-sdk-go/aws/credentials",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "KQiUK/zr3mqnAXD7x/X55/iNme0=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/aws/credentials/ec2rolecreds",
+			"path": "github.com/aws/aws-sdk-go/aws/credentials/ec2rolecreds",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "NUJUTWlc1sV8b7WjfiYc4JZbXl0=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/aws/credentials/endpointcreds",
+			"path": "github.com/aws/aws-sdk-go/aws/credentials/endpointcreds",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "4Ipx+5xN0gso+cENC2MHMWmQlR4=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/aws/credentials/stscreds",
+			"path": "github.com/aws/aws-sdk-go/aws/credentials/stscreds",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "DwhFsNluCFEwqzyp3hbJR3q2Wqs=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/aws/defaults",
+			"path": "github.com/aws/aws-sdk-go/aws/defaults",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "8E0fEBUJY/1lJOyVxzTxMGQGInk=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/aws/ec2metadata",
+			"path": "github.com/aws/aws-sdk-go/aws/ec2metadata",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "5Ac22YMTBmrX/CXaEIXzWljr8UY=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/aws/request",
+			"path": "github.com/aws/aws-sdk-go/aws/request",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "eOo6evLMAxQfo7Qkc5/h5euN1Sw=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/aws/session",
+			"path": "github.com/aws/aws-sdk-go/aws/session",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "diXvBs1LRC0RJ9WK6sllWKdzC04=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/aws/signer/v4",
+			"path": "github.com/aws/aws-sdk-go/aws/signer/v4",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "Esab5F8KswqkTdB4TtjSvZgs56k=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/private/endpoints",
+			"path": "github.com/aws/aws-sdk-go/private/endpoints",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "wk7EyvDaHwb5qqoOP/4d3cV0708=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/private/protocol",
+			"path": "github.com/aws/aws-sdk-go/private/protocol",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "1QmQ3FqV37w0Zi44qv8pA1GeR0A=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/private/protocol/ec2query",
+			"path": "github.com/aws/aws-sdk-go/private/protocol/ec2query",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "ZqY5RWavBLWTo6j9xqdyBEaNFRk=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/private/protocol/query",
+			"path": "github.com/aws/aws-sdk-go/private/protocol/query",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "5xzix1R8prUyWxgLnzUQoxTsfik=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/private/protocol/query/queryutil",
+			"path": "github.com/aws/aws-sdk-go/private/protocol/query/queryutil",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "TW/7U+/8ormL7acf6z2rv2hDD+s=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/private/protocol/rest",
+			"path": "github.com/aws/aws-sdk-go/private/protocol/rest",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "eUEkjyMPAuekKBE4ou+nM9tXEas=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/private/protocol/xml/xmlutil",
+			"path": "github.com/aws/aws-sdk-go/private/protocol/xml/xmlutil",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "Eo9yODN5U99BK0pMzoqnBm7PCrY=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/private/waiter",
+			"path": "github.com/aws/aws-sdk-go/private/waiter",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "6h4tJ9wVtbYb9wG4srtUxyPoAYM=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/service/ec2",
+			"path": "github.com/aws/aws-sdk-go/service/ec2",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "ouwhxcAsIYQ6oJbMRdLW/Ys/iyg=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/aws/aws-sdk-go/service/sts",
+			"path": "github.com/aws/aws-sdk-go/service/sts",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "4QnLdmB1kG3N+KlDd1N+G9TWAGQ=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/beorn7/perks/quantile",
+			"path": "github.com/beorn7/perks/quantile",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "fHGcEO+KGUeICuBTaMBQVJnA+Jw=",
+			"path": "github.com/cenk/backoff",
+			"revision": "f756bc9a37f808627c8c1b26d2d6ea40c468440b",
+			"revisionTime": "2018-05-18T09:06:49Z"
+		},
+		{
+			"checksumSHA1": "KUy1UUky9Gb/HcHArAP5NW6Taho=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/cespare/xxhash",
+			"path": "github.com/cespare/xxhash",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "SdSd7pyjONWWTHc5XE3AhglLo34=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/davecgh/go-spew/spew",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "2Fy1Y6Z3lRRX1891WF/+HT4XS2I=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/dgrijalva/jwt-go",
+			"path": "github.com/dgrijalva/jwt-go",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "f1wARLDzsF/JoyN01yoxXEwFIp8=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/docker/distribution/digest",
+			"path": "github.com/docker/distribution/digest",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "PzXRTLmmqWXxmDqdIXLcRYBma18=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/docker/distribution/reference",
+			"path": "github.com/docker/distribution/reference",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "1vQR+ZyudsjKio6RNKmWhwzGTb0=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/emicklei/go-restful",
+			"path": "github.com/emicklei/go-restful",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "3xWz4fZ9xW+CfADpYoPFcZCYJ4E=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/emicklei/go-restful/log",
+			"path": "github.com/emicklei/go-restful/log",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "J7CtF9gIs2yH9A7lPQDDrhYxiRk=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/emicklei/go-restful/swagger",
+			"path": "github.com/emicklei/go-restful/swagger",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "imR2wF388/0fBU6RRWx8RvTi8Q8=",
+			"path": "github.com/facebookgo/clock",
+			"revision": "600d898af40aa09a7a93ecb9265d87b0504b6f03",
+			"revisionTime": "2015-04-10T01:09:13Z"
+		},
+		{
+			"checksumSHA1": "ww7LVo7jNJ1o6sfRcromEHKyY+o=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/ghodss/yaml",
+			"path": "github.com/ghodss/yaml",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "cVyhKIRI2gQrgpn5qrBeAqErmWM=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/go-ini/ini",
+			"path": "github.com/go-ini/ini",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "ZSRtnAM/vH1sl0jxr4HztYI/4vs=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/go-kit/kit/log",
+			"path": "github.com/go-kit/kit/log",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "t7aTpDH0h4BZcGU0KkUr14QQG2w=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/go-kit/kit/log/level",
+			"path": "github.com/go-kit/kit/log/level",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "KxX/Drph+byPXBFIXaCZaCOAnrU=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/go-logfmt/logfmt",
+			"path": "github.com/go-logfmt/logfmt",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "NaZnW0tKj/b0k5WzcMD0twrLbrE=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/go-openapi/jsonpointer",
+			"path": "github.com/go-openapi/jsonpointer",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "3LJXjMDxPY+veIqzQtiAvK3hXnY=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/go-openapi/jsonreference",
+			"path": "github.com/go-openapi/jsonreference",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "faeB3fny260hQ/gEfEXa1ZQTGtk=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/go-openapi/spec",
+			"path": "github.com/go-openapi/spec",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "wGpZwJ5HZtReou8A3WEV1Gdxs6k=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/go-openapi/swag",
+			"path": "github.com/go-openapi/swag",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "KZ3QD2QgUS4RcoKiA3mn5pSlJxQ=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/go-stack/stack",
+			"path": "github.com/go-stack/stack",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "FhLvgtYfuKY0ow9wtLJRoeg7d6w=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gogo/protobuf/gogoproto",
+			"path": "github.com/gogo/protobuf/gogoproto",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "wn2shNJMwRZpvuvkf1s7h0wvqHI=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gogo/protobuf/proto",
+			"path": "github.com/gogo/protobuf/proto",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "wn2shNJMwRZpvuvkf1s7h0wvqHI=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gogo/protobuf/proto",
+			"path": "github.com/gogo/protobuf/proto",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "F+PKpdY6PyIrxQ8b20TzsM+1JuI=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gogo/protobuf/protoc-gen-gogo/descriptor",
+			"path": "github.com/gogo/protobuf/protoc-gen-gogo/descriptor",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "HPVQZu059/Rfw2bAWM538bVTcUc=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gogo/protobuf/sortkeys",
+			"path": "github.com/gogo/protobuf/sortkeys",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "HPVQZu059/Rfw2bAWM538bVTcUc=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gogo/protobuf/sortkeys",
+			"path": "github.com/gogo/protobuf/sortkeys",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "i5bzLJhJ7qoUaiFg95y9bfgyZv0=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gogo/protobuf/types",
+			"path": "github.com/gogo/protobuf/types",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "i5bzLJhJ7qoUaiFg95y9bfgyZv0=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gogo/protobuf/types",
+			"path": "github.com/gogo/protobuf/types",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "URsJa4y/sUUw/STmbeYx9EKqaYE=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/golang/glog",
+			"path": "github.com/golang/glog",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "APDDi2ohrU7OkChQCekD9tSVUhs=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/golang/protobuf/jsonpb",
+			"path": "github.com/golang/protobuf/jsonpb",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "qlPUeFabwF4RKAOF1H+yBFU1Veg=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/golang/protobuf/proto",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "Z1gJ3PKzwBpOoPnTSEM5yd0zHYA=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/golang/protobuf/protoc-gen-go/descriptor",
+			"path": "github.com/golang/protobuf/protoc-gen-go/descriptor",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "lZFWy27Qo6+m/keDjNFYTxSmvZw=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/golang/protobuf/ptypes/any",
+			"path": "github.com/golang/protobuf/ptypes/any",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "W+E/2xXcE1GmJ0Qb784ald0Fn6I=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/golang/snappy",
+			"path": "github.com/golang/snappy",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "/yFfUp3tGt6cK22UVzbq8SjPDCU=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/google/gofuzz",
+			"path": "github.com/google/gofuzz",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "ndG2xmm2bas4/t+kIEUp2xIni8c=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gophercloud/gophercloud",
+			"path": "github.com/gophercloud/gophercloud",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "24DO5BEQdFKNl1rfWgI2b4+ry5U=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gophercloud/gophercloud/openstack",
+			"path": "github.com/gophercloud/gophercloud/openstack",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "e7AW3YDVYJPKUjpqsB4AL9RRlTw=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/floatingips",
+			"path": "github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/floatingips",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "SKxDWZElN5KwYPPf4QSs9pR0jKg=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/hypervisors",
+			"path": "github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/hypervisors",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "vTyXSR+Znw7/o/70UBOWG0F09r8=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gophercloud/gophercloud/openstack/compute/v2/flavors",
+			"path": "github.com/gophercloud/gophercloud/openstack/compute/v2/flavors",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "Rnzx2YgOD41k8KoPA08tR992PxQ=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gophercloud/gophercloud/openstack/compute/v2/images",
+			"path": "github.com/gophercloud/gophercloud/openstack/compute/v2/images",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "IjCvcaNnRW++hclt21WUkMYinaA=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gophercloud/gophercloud/openstack/compute/v2/servers",
+			"path": "github.com/gophercloud/gophercloud/openstack/compute/v2/servers",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "9z5GwbsfpB49gzkHu10pDH5roKA=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gophercloud/gophercloud/openstack/identity/v2",
+			"path": "github.com/gophercloud/gophercloud/openstack/identity/v2",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "1sVqsZBZBNhDXLY9XzjMkcOkcbg=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gophercloud/gophercloud/openstack/identity/v2/tenants",
+			"path": "github.com/gophercloud/gophercloud/openstack/identity/v2/tenants",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "AvUU5En9YpG25iLlcAPDgcQODjI=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gophercloud/gophercloud/openstack/identity/v2/tokens",
+			"path": "github.com/gophercloud/gophercloud/openstack/identity/v2/tokens",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "vsgZmEVQLtCmxuxf/q4u8XJGWpE=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gophercloud/gophercloud/openstack/identity/v3",
+			"path": "github.com/gophercloud/gophercloud/openstack/identity/v3",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "fHOkQNWyeGoMPjkYvqiOrOifTUw=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gophercloud/gophercloud/openstack/identity/v3/tokens",
+			"path": "github.com/gophercloud/gophercloud/openstack/identity/v3/tokens",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "TDOZnaS0TO0NirpxV1QwPerAQTY=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gophercloud/gophercloud/openstack/utils",
+			"path": "github.com/gophercloud/gophercloud/openstack/utils",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "FNy075ydQZXvnL2bNNIOCmy/ghs=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/gophercloud/gophercloud/pagination",
+			"path": "github.com/gophercloud/gophercloud/pagination",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "DCgYY4AJZ2rJV2XpZ/Y00CDl+Jo=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/grpc-ecosystem/grpc-gateway/runtime",
+			"path": "github.com/grpc-ecosystem/grpc-gateway/runtime",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "V1qChZAWS+xzlEBSyz2r8JlzmM8=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/grpc-ecosystem/grpc-gateway/runtime/internal",
+			"path": "github.com/grpc-ecosystem/grpc-gateway/runtime/internal",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "vqiK5r5dntV7JNZ+ZsGlD0Samos=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/grpc-ecosystem/grpc-gateway/utilities",
+			"path": "github.com/grpc-ecosystem/grpc-gateway/utilities",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "/DReHn5j0caPm3thgFD9DmOmibQ=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/hashicorp/consul/api",
+			"path": "github.com/hashicorp/consul/api",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "Uzyon2091lmwacNsl1hCytjhHtg=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/hashicorp/go-cleanhttp",
+			"path": "github.com/hashicorp/go-cleanhttp",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "E3Xcanc9ouQwL+CZGOUyA/+giLg=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/hashicorp/serf/coordinate",
+			"path": "github.com/hashicorp/serf/coordinate",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "0ZrwvB6KoGPj2PoDNSEJwxQ6Mog=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/jmespath/go-jmespath",
+			"path": "github.com/jmespath/go-jmespath",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "TAUvj09/lPHXKRl6NXnptwY+WJI=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/json-iterator/go",
+			"path": "github.com/json-iterator/go",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "gA95N2LM2hEJLoqrTPaFsSWDJ2Y=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/juju/ratelimit",
+			"path": "github.com/juju/ratelimit",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "Farach1xcmsQYrhiUfkwF2rbIaE=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/julienschmidt/httprouter",
+			"path": "github.com/julienschmidt/httprouter",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "abKzFXAn0KDr5U+JON1ZgJ2lUtU=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/kr/logfmt",
+			"path": "github.com/kr/logfmt",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "urY45++NYCue4nh4k8OjUFnIGfU=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/mailru/easyjson/buffer",
+			"path": "github.com/mailru/easyjson/buffer",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "yTDKAM4KBgOvXRsZC50zg0OChvM=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/mailru/easyjson/jlexer",
+			"path": "github.com/mailru/easyjson/jlexer",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "4+d+6rhM1pei6lBguhqSEW7LaXs=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/mailru/easyjson/jwriter",
+			"path": "github.com/mailru/easyjson/jwriter",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "Q2vw4HZBbnU8BLFt8VrzStwqSJg=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/matttproud/golang_protobuf_extensions/pbutil",
+			"path": "github.com/matttproud/golang_protobuf_extensions/pbutil",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "XTeOihCDhjG6ltUKExoJ2uEzShk=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/miekg/dns",
+			"path": "github.com/miekg/dns",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "ZYfqG6bNE3cRlbsvpJBL0bF6DSc=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/mwitkow/go-conntrack",
+			"path": "github.com/mwitkow/go-conntrack",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "B1iGaUz7NrjEmCjVdIgH5pvkTe8=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/oklog/ulid",
+			"path": "github.com/oklog/ulid",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "lzPj2yJz4Dy6ev0O0L4PNVzplAw=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/opentracing/opentracing-go",
+			"path": "github.com/opentracing/opentracing-go",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "+rbKrafLHDnrQFgeWawo9tfZhV4=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/opentracing/opentracing-go/log",
+			"path": "github.com/opentracing/opentracing-go/log",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "ynJSWoF6v+3zMnh9R0QmmG6iGV8=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/pkg/errors",
+			"path": "github.com/pkg/errors",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "zKKp5SZ3d3ycKe4EKMNT0BqAWBw=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/pmezard/go-difflib/difflib",
+			"path": "github.com/pmezard/go-difflib/difflib",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "I87tkF1e/hrl4d/XIKFfkPRq1ww=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/prometheus/client_golang/prometheus",
+			"path": "github.com/prometheus/client_golang/prometheus",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "lG3//eDlwqA4IOuAPrNtLh9G0TA=",
+			"path": "github.com/prometheus/client_golang/prometheus/promhttp",
+			"revision": "v0.8.0",
+			"version": "v0.8.0",
+			"versionExact": "v0.8.0"
+		},
+		{
+			"checksumSHA1": "DvwvOlPNAgRntBzt3b3OSRMS2N4=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/prometheus/client_model/go",
+			"path": "github.com/prometheus/client_model/go",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "cxLURB7wEFsMAZ6fi5Ptfdrwdc8=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/prometheus/common/config",
+			"path": "github.com/prometheus/common/config",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "vPdC/DzEm7YbzRir2wwnpLPfay8=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/prometheus/common/expfmt",
+			"path": "github.com/prometheus/common/expfmt",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "GWlM3d2vPYyNATtTFgftS10/A9w=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/prometheus/common/internal/bitbucket.org/ww/goautoneg",
+			"path": "github.com/prometheus/common/internal/bitbucket.org/ww/goautoneg",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "EXTRY7DL9gFW8c341Dk6LDXCBn8=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/prometheus/common/model",
+			"path": "github.com/prometheus/common/model",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "Yseprf8kAFr/s7wztkQnrFuFN+8=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/prometheus/common/promlog",
+			"path": "github.com/prometheus/common/promlog",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "1H28FCxsaAIm6kvue+Wfdd8Lq6M=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/prometheus/common/promlog/flag",
+			"path": "github.com/prometheus/common/promlog/flag",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "9doPk0x0LONG/idxK61JnZYcxBs=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/prometheus/common/route",
+			"path": "github.com/prometheus/common/route",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "91KYK0SpvkaMJJA2+BcxbVnyRO0=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/prometheus/common/version",
+			"path": "github.com/prometheus/common/version",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "W218eJZPXJG783fUr/z6IaAZyes=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/prometheus/procfs",
+			"path": "github.com/prometheus/procfs",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "sknjfnRiZmqfsLvhYQceYYPwbfc=",
+			"path": "github.com/prometheus/prometheus/config",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "pC2Z2WHDWzNKNmKFW9AmaeTWs5k=",
+			"path": "github.com/prometheus/prometheus/discovery/azure",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "BJeJ/bdcqvVLDP+skR7qmHUAs40=",
+			"path": "github.com/prometheus/prometheus/discovery/config",
+			"revision": "85f23d82a045d103ea7f3c89a91fba4a93e6367a",
+			"revisionTime": "2018-01-19T11:54:28Z",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "vU7Fgb3SXJ8YIdCKBQ8tsQAifKU=",
+			"path": "github.com/prometheus/prometheus/discovery/consul",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "wQ4ZGkjp0h2PyKX3IPyVYa4CXwY=",
+			"path": "github.com/prometheus/prometheus/discovery/dns",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "ExYD4iXC+Topopzdx7aJUTeantQ=",
+			"path": "github.com/prometheus/prometheus/discovery/ec2",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "5le6jGrEk8oTuQN2aaqHlKQqEu4=",
+			"path": "github.com/prometheus/prometheus/discovery/file",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "haj10LdOzG6bv53I7dPRf3Yy/jk=",
+			"path": "github.com/prometheus/prometheus/discovery/gce",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "1mUWSuRFrE9k38RCh0BRKrqokBA=",
+			"path": "github.com/prometheus/prometheus/discovery/kubernetes",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "1mn0/ZLJtyG7G/MUFNFaKzJtl9Q=",
+			"path": "github.com/prometheus/prometheus/discovery/marathon",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "Rvq/s+r6p5dxeW+diQIdVeHEwyQ=",
+			"path": "github.com/prometheus/prometheus/discovery/openstack",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "vGXv7DcT6ngd1G4OZuBC6n/YBKs=",
+			"path": "github.com/prometheus/prometheus/discovery/targetgroup",
+			"revision": "85f23d82a045d103ea7f3c89a91fba4a93e6367a",
+			"revisionTime": "2018-01-19T11:54:28Z",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "RU+LpS5OsN+VLvTut0DOXcXfJBI=",
+			"path": "github.com/prometheus/prometheus/discovery/triton",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "PV78/knUdVdDnMyTc5kCVHVAQr4=",
+			"path": "github.com/prometheus/prometheus/discovery/zookeeper",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "VvJ7kr3WkRUwMKxzbnxroYVZMmg=",
+			"path": "github.com/prometheus/prometheus/pkg/labels",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "uq1FU14FQMn60FByLp8d0CNvDp8=",
+			"path": "github.com/prometheus/prometheus/pkg/pool",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "Ld8VqRkheroxzyU8wfpKq5KcC1g=",
+			"path": "github.com/prometheus/prometheus/pkg/relabel",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "zJ9moNaiZ3RxO4GDAUdPd4DyN5s=",
+			"path": "github.com/prometheus/prometheus/pkg/textparse",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "aBxiHq8WBoLD+8U0/PxdWufs64o=",
+			"path": "github.com/prometheus/prometheus/pkg/timestamp",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "gzjvMvC2Dp8nBQDlcZhtjIykZdY=",
+			"path": "github.com/prometheus/prometheus/pkg/value",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "EHWlgejaEyusynvgYORN9ZzAow0=",
+			"path": "github.com/prometheus/prometheus/prompb",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "xqy3Mg4HizTrdtie9Ql7YlhBvCs=",
+			"path": "github.com/prometheus/prometheus/promql",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "zFUp91MWoE/b/rwhEOhXg8Usv64=",
+			"path": "github.com/prometheus/prometheus/relabel",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "PxKvrXJv9slhKiLpvcNqxcmwZF4=",
+			"path": "github.com/prometheus/prometheus/scrape",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "0S7eow0I6eDGd7xuHQSiGvN4/gI=",
+			"path": "github.com/prometheus/prometheus/storage",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "u8rtQlzpsvCM5fmABXY6Kdx9rd8=",
+			"path": "github.com/prometheus/prometheus/storage/remote",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "ibW4coim9SvqJbFEcidzGOQ4sR0=",
+			"path": "github.com/prometheus/prometheus/storage/tsdb",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "uR81LrTOeQhSwJ/U6Y2vY1tbKrY=",
+			"path": "github.com/prometheus/prometheus/util/httputil",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "tNz+YU7QG0xzETqtLOqClATw9IQ=",
+			"path": "github.com/prometheus/prometheus/util/stats",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "1Z1LToD/EEb1r+sWog8vtwfaGBk=",
+			"path": "github.com/prometheus/prometheus/util/strutil",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "H5Iboq7JzeHIxKpL8DYGNBitI1A=",
+			"path": "github.com/prometheus/prometheus/util/testutil",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "+xjNhZQ0LpXzPga0YaofmComiIw=",
+			"path": "github.com/prometheus/prometheus/util/treecache",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "FNv5iDswNKRR42e8DxgLBQnXtok=",
+			"path": "github.com/prometheus/prometheus/util/yaml",
+			"revision": "85f23d82a045d103ea7f3c89a91fba4a93e6367a",
+			"revisionTime": "2018-01-19T11:54:28Z",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "IZaVMfUwFsYr1MvaSNsECTFgHdY=",
+			"path": "github.com/prometheus/prometheus/web/api/v1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "eohOTRwnox/+qrSrgYmnxeJB2yM=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/prometheus/tsdb",
+			"path": "github.com/prometheus/tsdb",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "QI0UME2olSr4kH6Z8UkpffM59Mc=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/prometheus/tsdb/chunkenc",
+			"path": "github.com/prometheus/tsdb/chunkenc",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "746Mjy2y6wdsGjY/FcGhc8tI4w8=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/prometheus/tsdb/chunks",
+			"path": "github.com/prometheus/tsdb/chunks",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "dnyelqeik/xHDRCvCmKFv/Op9XQ=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/prometheus/tsdb/fileutil",
+			"path": "github.com/prometheus/tsdb/fileutil",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "A2uIFwIgeHmXGBzOpna95kM80RY=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/prometheus/tsdb/index",
+			"path": "github.com/prometheus/tsdb/index",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "Va8HWvOFTwFeewZFadMAOzNGDps=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/prometheus/tsdb/labels",
+			"path": "github.com/prometheus/tsdb/labels",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "q6JII/ziSLMqwajFGHj6w8V+RbA=",
+			"path": "github.com/rubyist/circuitbreaker",
+			"revision": "2074adba5ddc7d5f7559448a9c3066573521c5bf",
+			"revisionTime": "2017-03-30T19:36:47Z"
+		},
+		{
+			"checksumSHA1": "5SYLEhADhdBVZAGPVHWggQl7H8k=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/samuel/go-zookeeper/zk",
+			"path": "github.com/samuel/go-zookeeper/zk",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "STxYqRb4gnlSr3mRpT+Igfdz/kM=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/spf13/pflag",
+			"path": "github.com/spf13/pflag",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "iydUphwYqZRq3WhstEdGsbvBAKs=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/stretchr/testify/assert",
+			"path": "github.com/stretchr/testify/assert",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "P9FJpir2c4G5PA46qEkaWy3l60U=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/stretchr/testify/require",
+			"path": "github.com/stretchr/testify/require",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "f6Aew+ZA+HBAXCw6/xTST3mB0Lw=",
+			"origin": "github.com/prometheus/prometheus/vendor/github.com/ugorji/go/codec",
+			"path": "github.com/ugorji/go/codec",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "1hwn8cgg4EVXhCpJIqmMbzqnUo0=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/crypto/ed25519",
+			"path": "golang.org/x/crypto/ed25519",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "LXFcVx8I587SnWmKycSDEq9yvK8=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/crypto/ed25519/internal/edwards25519",
+			"path": "golang.org/x/crypto/ed25519/internal/edwards25519",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "NjyXtXsaf0ulRJn6HQSP1FqGL4A=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/net/bpf",
+			"path": "golang.org/x/net/bpf",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "GtamqiJoL7PGHsN454AoffBFMa8=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/net/context",
+			"path": "golang.org/x/net/context",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "WHc3uByvGaMcnSoI21fhzYgbOgg=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/net/context/ctxhttp",
+			"path": "golang.org/x/net/context/ctxhttp",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "9pU0E/UV32KU6ci2x6BqCPWeseI=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/net/http2",
+			"path": "golang.org/x/net/http2",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "LW///cttbVyQo4Qh11kdIt0VMjs=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/net/http2/hpack",
+			"path": "golang.org/x/net/http2/hpack",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "RcrB7tgYS/GMW4QrwVdMOTNqIU8=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/net/idna",
+			"path": "golang.org/x/net/idna",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "KZoApXkpu6ucvSiKDep+5bQDNUo=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/net/internal/iana",
+			"path": "golang.org/x/net/internal/iana",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "YsXlbexuTtUXHyhSv927ILOkf6A=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/net/internal/socket",
+			"path": "golang.org/x/net/internal/socket",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "UxahDzW2v4mf/+aFxruuupaoIwo=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/net/internal/timeseries",
+			"path": "golang.org/x/net/internal/timeseries",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "ncLr3evob5ZOUHJS528IQoI8CTg=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/net/ipv4",
+			"path": "golang.org/x/net/ipv4",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "xqt5auCDSuvg5dm07p60loM67/A=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/net/ipv6",
+			"path": "golang.org/x/net/ipv6",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "3xyuaSNmClqG4YWC7g0isQIbUTc=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/net/lex/httplex",
+			"path": "golang.org/x/net/lex/httplex",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "whCSspa9pYarl527EuhPz91cbUE=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/net/netutil",
+			"path": "golang.org/x/net/netutil",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "rJn3m/27kO+2IU6KCCZ74Miby+8=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/net/trace",
+			"path": "golang.org/x/net/trace",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "mktBVED98G2vv+OKcSgtnFVZC1Y=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/oauth2",
+			"path": "golang.org/x/oauth2",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "2rk6lthfQa5Rfydj8j7+dilKGbo=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/oauth2/google",
+			"path": "golang.org/x/oauth2/google",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "W/GiDqzsagBnR7/yEvxatMhUDBs=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/oauth2/internal",
+			"path": "golang.org/x/oauth2/internal",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "CPTYHWrVL4jA0B1IuC0hvgcE2AQ=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/oauth2/jws",
+			"path": "golang.org/x/oauth2/jws",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "xifBSq0Pn6pIoPA/o3tyzq8X4Ds=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/oauth2/jwt",
+			"path": "golang.org/x/oauth2/jwt",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "S0DP7Pn7sZUmXc55IzZnNvERu6s=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/sync/errgroup",
+			"path": "golang.org/x/sync/errgroup",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "UBM+o5nmA/h/47jfqfoH2n8KlZo=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/sys/unix",
+			"path": "golang.org/x/sys/unix",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "BBdmpnzrqkQreDoEKnzONUJ0y54=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/text/cases",
+			"path": "golang.org/x/text/cases",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "iAsGo/kxvnwILbJVUCd0ZcqZO/Q=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/text/internal/tag",
+			"path": "golang.org/x/text/internal/tag",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "vqWvYo3+DgSYJHYSf+glLnpoIaU=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/text/language",
+			"path": "golang.org/x/text/language",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "WpeH2TweiuiZAQVTJNO5vyZAQQA=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/text/runes",
+			"path": "golang.org/x/text/runes",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "faFDXp++cLjLBlvsr+izZ+go1WU=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/text/secure/bidirule",
+			"path": "golang.org/x/text/secure/bidirule",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "+kC30oPJx+pgfPjB/jo+wcOD1cQ=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/text/secure/precis",
+			"path": "golang.org/x/text/secure/precis",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "nwlu7UTwYbCj9l5f3a7t2ROwNzM=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/text/transform",
+			"path": "golang.org/x/text/transform",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "FwEUTPAGLq8a3L00M4SzCyjvYug=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/text/unicode/bidi",
+			"path": "golang.org/x/text/unicode/bidi",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "pbcYgE8mW2Y0JNWFcoO/yRM6Mp8=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/text/unicode/norm",
+			"path": "golang.org/x/text/unicode/norm",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "6Ygn2vOUdhtnfc5QhnqF6evMgvY=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/text/width",
+			"path": "golang.org/x/text/width",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "vGfePfr0+weQUeTM/71mu+LCFuE=",
+			"origin": "github.com/prometheus/prometheus/vendor/golang.org/x/time/rate",
+			"path": "golang.org/x/time/rate",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "pU36mE4XlQLbLxAllFW8bxyluuc=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/api/compute/v1",
+			"path": "google.golang.org/api/compute/v1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "EooPqEpEyY/7NCRwHDMWhhlkQNw=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/api/gensupport",
+			"path": "google.golang.org/api/gensupport",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "BWKmb7kGYbfbvXO6E7tCpTh9zKE=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/api/googleapi",
+			"path": "google.golang.org/api/googleapi",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "1K0JxrUfDqAB3MyRiU1LKjfHyf4=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/api/googleapi/internal/uritemplates",
+			"path": "google.golang.org/api/googleapi/internal/uritemplates",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "N3KZEuQ9O1QwJXcCJbe7Czwroo4=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/appengine",
+			"path": "google.golang.org/appengine",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "G9Xp1ScdsfcKsw+PcWunivRRP3o=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/appengine/internal",
+			"path": "google.golang.org/appengine/internal",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "x6Thdfyasqd68dWZWqzWWeIfAfI=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/appengine/internal/app_identity",
+			"path": "google.golang.org/appengine/internal/app_identity",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "TsNO8P0xUlLNyh3Ic/tzSp/fDWM=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/appengine/internal/base",
+			"path": "google.golang.org/appengine/internal/base",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "5QsV5oLGSfKZqTCVXP6NRz5T4Tw=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/appengine/internal/datastore",
+			"path": "google.golang.org/appengine/internal/datastore",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "Gep2T9zmVYV8qZfK2gu3zrmG6QE=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/appengine/internal/log",
+			"path": "google.golang.org/appengine/internal/log",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "eLZVX1EHLclFtQnjDIszsdyWRHo=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/appengine/internal/modules",
+			"path": "google.golang.org/appengine/internal/modules",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "a1XY7rz3BieOVqVI2Et6rKiwQCk=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/appengine/internal/remote_api",
+			"path": "google.golang.org/appengine/internal/remote_api",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "QtAbHtHmDzcf6vOV9eqlCpKgjiw=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/appengine/internal/urlfetch",
+			"path": "google.golang.org/appengine/internal/urlfetch",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "akOV9pYnCbcPA8wJUutSQVibdyg=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/appengine/urlfetch",
+			"path": "google.golang.org/appengine/urlfetch",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "Wp8g9MHRmK8SwcyGVCoGtPx+5Lo=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/cloud/compute/metadata",
+			"path": "google.golang.org/cloud/compute/metadata",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "U7dGDNwEHORvJFMoNSXErKE7ITg=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/cloud/internal",
+			"path": "google.golang.org/cloud/internal",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "B22iMMY2vi1Q9kseWb/ZznpW8lQ=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/genproto/googleapis/api/annotations",
+			"path": "google.golang.org/genproto/googleapis/api/annotations",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "61oRC/n7DFqHNu6Z+4fAKY1FVCY=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/genproto/googleapis/rpc/status",
+			"path": "google.golang.org/genproto/googleapis/rpc/status",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "TELSDa3VkpEE3kfa72tBSGEct5I=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/grpc",
+			"path": "google.golang.org/grpc",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "08icuA15HRkdYCt6H+Cs90RPQsY=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/grpc/codes",
+			"path": "google.golang.org/grpc/codes",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "ABO3qOTUiOZOk1UCq47NbQ64yWk=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/grpc/credentials",
+			"path": "google.golang.org/grpc/credentials",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "d0cyferoJguQhL6d2K6g2oC0mVM=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/grpc/grpclb/grpc_lb_v1",
+			"path": "google.golang.org/grpc/grpclb/grpc_lb_v1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "3Lt5hNAG8qJAYSsNghR5uA1zQns=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/grpc/grpclog",
+			"path": "google.golang.org/grpc/grpclog",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "T3Q0p8kzvXFnRkMaK/G8mCv6mc0=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/grpc/internal",
+			"path": "google.golang.org/grpc/internal",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "TY6NrgLRPSer6a5dBYOo/7o/ghk=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/grpc/keepalive",
+			"path": "google.golang.org/grpc/keepalive",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "89fjWaU6NKVpmWI+0EoDION0dpE=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/grpc/metadata",
+			"path": "google.golang.org/grpc/metadata",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "4GSUFhOQ0kdFlBH4D5OTeKy78z0=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/grpc/naming",
+			"path": "google.golang.org/grpc/naming",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "wUSBvomJRJhYf4ELuP0bSkFrzgc=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/grpc/peer",
+			"path": "google.golang.org/grpc/peer",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "e7eoENPNFnm2QddUE5epm8UmFX8=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/grpc/stats",
+			"path": "google.golang.org/grpc/stats",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "0tlQhEkF3hex/+tjcygLxeweuiY=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/grpc/status",
+			"path": "google.golang.org/grpc/status",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "N0TftT6/CyWqp6VRi2DqDx60+Fo=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/grpc/tap",
+			"path": "google.golang.org/grpc/tap",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "WD28CYkulvUp5WiuRdr+NmZti/Y=",
+			"origin": "github.com/prometheus/prometheus/vendor/google.golang.org/grpc/transport",
+			"path": "google.golang.org/grpc/transport",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "3SZTatHIy9OTKc95YlVfXKnoySg=",
+			"origin": "github.com/prometheus/prometheus/vendor/gopkg.in/alecthomas/kingpin.v2",
+			"path": "gopkg.in/alecthomas/kingpin.v2",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "0ks+iNxFZmKu2nBuEmCGJqdiYgs=",
+			"origin": "github.com/prometheus/prometheus/vendor/gopkg.in/fsnotify/fsnotify.v1",
+			"path": "gopkg.in/fsnotify/fsnotify.v1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "pfQwQtWlFezJq0Viroa/L+v+yDM=",
+			"origin": "github.com/prometheus/prometheus/vendor/gopkg.in/inf.v0",
+			"path": "gopkg.in/inf.v0",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "imG6pzrX95XLhP9FUQMjp+yH9LY=",
+			"origin": "github.com/prometheus/prometheus/vendor/gopkg.in/yaml.v2",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "yugSOlAEbiAH8bhs5RLNAAmR3Cc=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/api/errors",
+			"path": "k8s.io/apimachinery/pkg/api/errors",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "jy7AVFN9kxRRc/+IcEBrW0/w6RY=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/api/meta",
+			"path": "k8s.io/apimachinery/pkg/api/meta",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "0iZGAJ4tN12kkf6L9/HPbMMfiKY=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/api/resource",
+			"path": "k8s.io/apimachinery/pkg/api/resource",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "e/FuiIWG97eGJ+48yAZPw/THUlk=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/apimachinery",
+			"path": "k8s.io/apimachinery/pkg/apimachinery",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "Hd4ESY5hCC8x73iVZTB21vMd3nw=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/apimachinery/announced",
+			"path": "k8s.io/apimachinery/pkg/apimachinery/announced",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "BV1QVm2PziaEQEQalt5X3zCRW28=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/apimachinery/registered",
+			"path": "k8s.io/apimachinery/pkg/apimachinery/registered",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "WPFsKHs9NX4OGMVjKanWqeEhPl0=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/apis/meta/v1",
+			"path": "k8s.io/apimachinery/pkg/apis/meta/v1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "vsWGhOqx/lokFtZOcV0drEqjy78=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/apis/meta/v1/unstructured",
+			"path": "k8s.io/apimachinery/pkg/apis/meta/v1/unstructured",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "TAFI3FU4ZjvIClZkPcIgc4AWcOQ=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/conversion",
+			"path": "k8s.io/apimachinery/pkg/conversion",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "xEo+z/ITZUVyycIHoPDhK0eMd9c=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/conversion/queryparams",
+			"path": "k8s.io/apimachinery/pkg/conversion/queryparams",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "qZzCF/6VlY8r5g8bviNnft1ea4s=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/fields",
+			"path": "k8s.io/apimachinery/pkg/fields",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "qWIpmMOqjEEV6KoP/hQg+ur/ogs=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/labels",
+			"path": "k8s.io/apimachinery/pkg/labels",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "9BqzTUa7RFscc25qyAQKLkAYHgY=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/openapi",
+			"path": "k8s.io/apimachinery/pkg/openapi",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "mSWcGlciPb7Nmo6Nhy8ic5rqf70=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/runtime",
+			"path": "k8s.io/apimachinery/pkg/runtime",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "SHAUerkMKVWY30mfLu3Lca5Hx9U=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/runtime/schema",
+			"path": "k8s.io/apimachinery/pkg/runtime/schema",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "zrzqafjVBMG7MbUDRkDjvb/tKjM=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/runtime/serializer",
+			"path": "k8s.io/apimachinery/pkg/runtime/serializer",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "h1WROKxiVBW5FH6InZr89w4rhUs=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/runtime/serializer/json",
+			"path": "k8s.io/apimachinery/pkg/runtime/serializer/json",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "inmKlIskO3iMYraepPTfQPf6a+I=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/runtime/serializer/protobuf",
+			"path": "k8s.io/apimachinery/pkg/runtime/serializer/protobuf",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "CxRm8Ny1sWZVlEw1WBfbOMtJP40=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/runtime/serializer/recognizer",
+			"path": "k8s.io/apimachinery/pkg/runtime/serializer/recognizer",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "U768j7bVYHO5DwtNAHdIuBtpFMc=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/runtime/serializer/streaming",
+			"path": "k8s.io/apimachinery/pkg/runtime/serializer/streaming",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "9K+3sgiTaGZTnv8KXf8UjR8a5lQ=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/runtime/serializer/versioning",
+			"path": "k8s.io/apimachinery/pkg/runtime/serializer/versioning",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "p9Wv7xurZXAW0jYL/SLNPbiUjaA=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/selection",
+			"path": "k8s.io/apimachinery/pkg/selection",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "pPDILUNQnLdZq//lQfcbouI8zOs=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/types",
+			"path": "k8s.io/apimachinery/pkg/types",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "NtbgtroNspdoTC3jSyvEUfZ16dc=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/util/diff",
+			"path": "k8s.io/apimachinery/pkg/util/diff",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "0yXRmDoh+ixnHcPgD2TVuQr96Wc=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/util/errors",
+			"path": "k8s.io/apimachinery/pkg/util/errors",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "bQOeFTINeXcfMOAOPArjRma/1mk=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/util/framer",
+			"path": "k8s.io/apimachinery/pkg/util/framer",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "1D6uxyKvuYcpf5dWSuAkju4V74U=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/util/intstr",
+			"path": "k8s.io/apimachinery/pkg/util/intstr",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "pHhdHm4qbXomRjEXMRgJiAI3LnQ=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/util/json",
+			"path": "k8s.io/apimachinery/pkg/util/json",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "lgGrBbreZzae+kWnbZx0JRHlww0=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/util/net",
+			"path": "k8s.io/apimachinery/pkg/util/net",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "CIMK51VUL/ytdt9K6aDwcoN2OWQ=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/util/rand",
+			"path": "k8s.io/apimachinery/pkg/util/rand",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "Om1Zl0Z1mqcAgbl7rL6U3lqw29U=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/util/runtime",
+			"path": "k8s.io/apimachinery/pkg/util/runtime",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "326d8P0Tw6T7B4pyvBbr+6devTU=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/util/sets",
+			"path": "k8s.io/apimachinery/pkg/util/sets",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "7gNiplzDd213IdDzfBtH9ZLQIac=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/util/validation",
+			"path": "k8s.io/apimachinery/pkg/util/validation",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "aN6xdUVpDdALXX7eXIpHkB2KeOI=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/util/validation/field",
+			"path": "k8s.io/apimachinery/pkg/util/validation/field",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "wQmzvUriA0AIc5pd64EG+Zjz4IA=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/util/wait",
+			"path": "k8s.io/apimachinery/pkg/util/wait",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "BTh0mc+q8UHMqwS8vhILP1ORZO8=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/util/yaml",
+			"path": "k8s.io/apimachinery/pkg/util/yaml",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "jNSfgzj8hPVchQHSblfJ1U/YO2g=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/version",
+			"path": "k8s.io/apimachinery/pkg/version",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "tNFWlf1AlPjwt45gyZN3jmsIN1U=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/pkg/watch",
+			"path": "k8s.io/apimachinery/pkg/watch",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "bce6lDX/UQHPd1qRfo9d9B2dweU=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/apimachinery/third_party/forked/golang/reflect",
+			"path": "k8s.io/apimachinery/third_party/forked/golang/reflect",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "aZfBu8yGnljbJHjiz20WLiSMsfI=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/discovery",
+			"path": "k8s.io/client-go/discovery",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "s0L1FiqMM+WQke6bVnkIjtrjfwU=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes",
+			"path": "k8s.io/client-go/kubernetes",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "rRh34tAEtq08Aae/YBTlLXV8Mbw=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes/scheme",
+			"path": "k8s.io/client-go/kubernetes/scheme",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "mPYUwNdFVuICD7UiiqkU73gSGfA=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes/typed/apps/v1beta1",
+			"path": "k8s.io/client-go/kubernetes/typed/apps/v1beta1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "oIuu1tM2ZCePxQW03oiUIS0cqm8=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes/typed/authentication/v1",
+			"path": "k8s.io/client-go/kubernetes/typed/authentication/v1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "gxfSKIFSwg0Q9lQ9Ru6VBdgS7nc=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes/typed/authentication/v1beta1",
+			"path": "k8s.io/client-go/kubernetes/typed/authentication/v1beta1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "gauXUMKCxFFQR0vYjMgWa0JEdFY=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes/typed/authorization/v1",
+			"path": "k8s.io/client-go/kubernetes/typed/authorization/v1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "9k1t+56EdB1mQkBWGw23tiAPuNQ=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes/typed/authorization/v1beta1",
+			"path": "k8s.io/client-go/kubernetes/typed/authorization/v1beta1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "QJVvfabGlmrHydChSbkIYIKDMUY=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes/typed/autoscaling/v1",
+			"path": "k8s.io/client-go/kubernetes/typed/autoscaling/v1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "OlZ/WP9Lv6SQeQPn6S69cwv8opE=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes/typed/autoscaling/v2alpha1",
+			"path": "k8s.io/client-go/kubernetes/typed/autoscaling/v2alpha1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "bv+dr19WQcDrubXbIUv2toN4DWc=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes/typed/batch/v1",
+			"path": "k8s.io/client-go/kubernetes/typed/batch/v1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "3rgXMCVpnVPMpqiwVLcZ6AUx9VA=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes/typed/batch/v2alpha1",
+			"path": "k8s.io/client-go/kubernetes/typed/batch/v2alpha1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "wVHdBwUm3iiSr2FIOFDmveLc44c=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes/typed/certificates/v1beta1",
+			"path": "k8s.io/client-go/kubernetes/typed/certificates/v1beta1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "Fr6enVUrMGiReymOpl7G5Jb4x6Y=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes/typed/core/v1",
+			"path": "k8s.io/client-go/kubernetes/typed/core/v1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "3liVtBqf4n49k/E8ZHG8a5V57Gw=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes/typed/extensions/v1beta1",
+			"path": "k8s.io/client-go/kubernetes/typed/extensions/v1beta1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "qXM2hNXC5tGX03uImzx4XSPUU1s=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes/typed/policy/v1beta1",
+			"path": "k8s.io/client-go/kubernetes/typed/policy/v1beta1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "DXqxFLINH6dV1XE6nsvix66mUnc=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes/typed/rbac/v1alpha1",
+			"path": "k8s.io/client-go/kubernetes/typed/rbac/v1alpha1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "dsF5arKiA1Mgfe5bx3EznJtI+XM=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes/typed/rbac/v1beta1",
+			"path": "k8s.io/client-go/kubernetes/typed/rbac/v1beta1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "I0RCWyWrT83nbEwvIRw3AErv/uU=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes/typed/settings/v1alpha1",
+			"path": "k8s.io/client-go/kubernetes/typed/settings/v1alpha1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "FQb3kXWYLcURqpZp9J1g1vUDtqU=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes/typed/storage/v1",
+			"path": "k8s.io/client-go/kubernetes/typed/storage/v1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "By0ty5ntYvanInEXAgnS9VKln2U=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/kubernetes/typed/storage/v1beta1",
+			"path": "k8s.io/client-go/kubernetes/typed/storage/v1beta1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "NnHqF5QII9GH4l2bBCO4WAI9tPw=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/api",
+			"path": "k8s.io/client-go/pkg/api",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "8a+TkAQbGwIr7xn1mq4A/4W5Zi8=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/api/install",
+			"path": "k8s.io/client-go/pkg/api/install",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "xR+RJV1Y0ApIxJc5HJ9ROPJzAUE=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/api/v1",
+			"path": "k8s.io/client-go/pkg/api/v1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "LXlUYCUTS+vvHBunesoJIoQpjeg=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/apps",
+			"path": "k8s.io/client-go/pkg/apis/apps",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "pWRcTUwLPlUrxnuSf13Je9vUb5k=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/apps/install",
+			"path": "k8s.io/client-go/pkg/apis/apps/install",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "ey+jPC0jAsdJMRXytd/Kf5ud8+4=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/apps/v1beta1",
+			"path": "k8s.io/client-go/pkg/apis/apps/v1beta1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "1Bgq5sNb7Lr/DpAQ18tSfdcxRc0=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/authentication",
+			"path": "k8s.io/client-go/pkg/apis/authentication",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "tcR4IcZhoRhb2ESgint0e+ciCFg=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/authentication/install",
+			"path": "k8s.io/client-go/pkg/apis/authentication/install",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "YKQVSsTKKDyORxuu032FmGwak+A=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/authentication/v1",
+			"path": "k8s.io/client-go/pkg/apis/authentication/v1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "1d8umgBD03+/B0dPkm8ibEfXnYY=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/authentication/v1beta1",
+			"path": "k8s.io/client-go/pkg/apis/authentication/v1beta1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "fROwttd7znBTHtVgI5fptVch/E0=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/authorization",
+			"path": "k8s.io/client-go/pkg/apis/authorization",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "hy7/VvKfkGFFBmuvGQx0AkR6rf0=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/authorization/install",
+			"path": "k8s.io/client-go/pkg/apis/authorization/install",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "5BUDpdzd0RJ386SDbQAEitJ7gqk=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/authorization/v1",
+			"path": "k8s.io/client-go/pkg/apis/authorization/v1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "zsRAXUsCpt0MEpKaMPyUMSQ4W6U=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/authorization/v1beta1",
+			"path": "k8s.io/client-go/pkg/apis/authorization/v1beta1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "RcNhGbiTRR9lgY5SuGeH/pnCTUo=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/autoscaling",
+			"path": "k8s.io/client-go/pkg/apis/autoscaling",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "QonQuKQ/5PKrXJrrROhecb2sks4=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/autoscaling/install",
+			"path": "k8s.io/client-go/pkg/apis/autoscaling/install",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "fqjBkYwQuCHRtqGRlsM7CCY/oJY=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/autoscaling/v1",
+			"path": "k8s.io/client-go/pkg/apis/autoscaling/v1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "yVDh7CTkmsXAmyPlm0WnWDbbBDo=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/autoscaling/v2alpha1",
+			"path": "k8s.io/client-go/pkg/apis/autoscaling/v2alpha1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "mCfnnrJMt42LaBFP70iMAn1tglQ=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/batch",
+			"path": "k8s.io/client-go/pkg/apis/batch",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "nL13CbbwoobyU3L2XEuYte21BXQ=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/batch/install",
+			"path": "k8s.io/client-go/pkg/apis/batch/install",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "KPiDNUjzRvxOxWWGbsl/wkzsnts=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/batch/v1",
+			"path": "k8s.io/client-go/pkg/apis/batch/v1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "kk+5pPULA7r+HVhORCY7xvnjLYA=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/batch/v2alpha1",
+			"path": "k8s.io/client-go/pkg/apis/batch/v2alpha1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "UvjuR9+K7/J4egvLRCJlFOF86T8=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/certificates",
+			"path": "k8s.io/client-go/pkg/apis/certificates",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "R617NaU9x7BC5qLCH8KayH4oVeo=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/certificates/install",
+			"path": "k8s.io/client-go/pkg/apis/certificates/install",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "XnYE+PADIIf6LPbf/TB3vmyPVj4=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/certificates/v1beta1",
+			"path": "k8s.io/client-go/pkg/apis/certificates/v1beta1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "V5SktS1jIYIRcC/WZMuO8XXB0lg=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/extensions",
+			"path": "k8s.io/client-go/pkg/apis/extensions",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "StZg3zfhODhOM7iSvZE1S4eS71M=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/extensions/install",
+			"path": "k8s.io/client-go/pkg/apis/extensions/install",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "r03CaZpSonU1YhTMALq3a+9fePA=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/extensions/v1beta1",
+			"path": "k8s.io/client-go/pkg/apis/extensions/v1beta1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "uK2jynPvFbMEMWF7hr1GyJubgVQ=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/policy",
+			"path": "k8s.io/client-go/pkg/apis/policy",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "9RnFX43MNdGVGi1V/30t7k/HSME=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/policy/install",
+			"path": "k8s.io/client-go/pkg/apis/policy/install",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "t9ESUxOQm/+3iDK46b/HUgb4Hm8=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/policy/v1beta1",
+			"path": "k8s.io/client-go/pkg/apis/policy/v1beta1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "O1jhGYkRjesZMcVtHFm1rRMRTJo=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/rbac",
+			"path": "k8s.io/client-go/pkg/apis/rbac",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "OvZ8dIDwbOwQGiRP8JbyC5hjE4k=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/rbac/install",
+			"path": "k8s.io/client-go/pkg/apis/rbac/install",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "lZNbMgiUj55f9OXhAYFJINPstow=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/rbac/v1alpha1",
+			"path": "k8s.io/client-go/pkg/apis/rbac/v1alpha1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "bQV+lTglPnO1dqeibaEaMBCrjLA=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/rbac/v1beta1",
+			"path": "k8s.io/client-go/pkg/apis/rbac/v1beta1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "Q1+vWNab1/wGZc6KYpwFSx7/QbM=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/settings",
+			"path": "k8s.io/client-go/pkg/apis/settings",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "npUnJMBJNwv9CPanReQ0X3rP8Z4=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/settings/install",
+			"path": "k8s.io/client-go/pkg/apis/settings/install",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "J54pr0/7r5xGm8gT55ZzZ5KyN7I=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/settings/v1alpha1",
+			"path": "k8s.io/client-go/pkg/apis/settings/v1alpha1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "a0Q8SOgvkSxIuEu665UtgDtmpCU=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/storage",
+			"path": "k8s.io/client-go/pkg/apis/storage",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "m6lo9e5aXsfZNNc1KStRJ0Mw2cY=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/storage/install",
+			"path": "k8s.io/client-go/pkg/apis/storage/install",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "2TAFlLYih7oRtZ8KbvMmIrziGXQ=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/storage/v1",
+			"path": "k8s.io/client-go/pkg/apis/storage/v1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "MnArzVKB12JFUZDbCvaaLCBRpxU=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/apis/storage/v1beta1",
+			"path": "k8s.io/client-go/pkg/apis/storage/v1beta1",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "/wssE6/+5UY8QrrbYnpkieVwp8Y=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/util",
+			"path": "k8s.io/client-go/pkg/util",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "U4YjTHHqEs+YZFYdiV1exJyuwDM=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/util/parsers",
+			"path": "k8s.io/client-go/pkg/util/parsers",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "ApqZCY/0FjkcTCymLF/hn1557rc=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/pkg/version",
+			"path": "k8s.io/client-go/pkg/version",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "WKKCrNPVWbJYm1im1DA9145z6xI=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/rest",
+			"path": "k8s.io/client-go/rest",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "+wYCwQaVc1GvMWwOWc3wXd2GT5s=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/rest/watch",
+			"path": "k8s.io/client-go/rest/watch",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "ITSxtOSOLAw9NIIJDXhauEtzo+M=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/tools/cache",
+			"path": "k8s.io/client-go/tools/cache",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "1jUQmUDroNs5XYhsQna4kNTzMik=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/tools/clientcmd/api",
+			"path": "k8s.io/client-go/tools/clientcmd/api",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "rRC9GCWXfyIXKHBCeKpw7exVybE=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/tools/metrics",
+			"path": "k8s.io/client-go/tools/metrics",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "X7AC6lZGlUJdhKLplcncvP7e8Jc=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/transport",
+			"path": "k8s.io/client-go/transport",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "y6BpqJVXsBeykiGljn95RvGONCg=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/util/cert",
+			"path": "k8s.io/client-go/util/cert",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "kyu4NFcUmCTsUMpsPeyFrigorCE=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/util/clock",
+			"path": "k8s.io/client-go/util/clock",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "pCmdxpwnhYqoDSls5ehHtQFglm4=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/util/flowcontrol",
+			"path": "k8s.io/client-go/util/flowcontrol",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "W6bJiNAwgNwNJC+y+TPtacgUGlY=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/util/integer",
+			"path": "k8s.io/client-go/util/integer",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		},
+		{
+			"checksumSHA1": "cy88zyzH3VJWVaIb41DDBlv+mmU=",
+			"origin": "github.com/prometheus/prometheus/vendor/k8s.io/client-go/util/workqueue",
+			"path": "k8s.io/client-go/util/workqueue",
+			"revision": "v2.3.1",
+			"version": "v2.3.1",
+			"versionExact": "v2.3.1"
+		}
+	],
+	"rootPath": "github.com/mz-techops/prometheus-mixer"
+}
